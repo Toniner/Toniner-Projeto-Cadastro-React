@@ -1,0 +1,35 @@
+.editar{
+    background-color: yellow;
+    color: yellow;
+}
+
+button.editar.btn.btn-secondary{
+    background-color: yellow;
+    color: black;
+    width: 40px;
+
+}
+
+
+button.deletar.btn.btn-primary{
+    background-color: red;
+    color: black;
+    margin-left: 5px;
+    width: 40px;
+}
+
+h1{
+    margin-left: 450px;
+}
+
+.Table{
+    margin-top: 10000px;
+}
+
+input#nascimento.form-control{
+    width: 200px;
+}
+
+th.acoes{
+    width: 100px;
+}
